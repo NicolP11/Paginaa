@@ -1,0 +1,464 @@
+body{
+    background-color: rgb(255, 255, 255);
+    left: 50px;
+    border:20px  ;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: rgb(255, 122, 33);
+    font-size: 50px;                                                                                                                                 
+    right: 150px;
+    text-align: center;
+    text-align: 30px;
+
+    
+}
+
+
+button{
+    background-color: rgb(139, 183, 255);
+    border-radius: 30px 50px 30px 50px;
+    transition: 3s;
+    width: 200px;                                 
+    text-align: center;
+    text-decoration: none;
+    border: 20px 10px 20px 10px;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: rgb(251, 81, 59);
+    color: rgb(255, 247, 0);
+    border-radius: 20px 20px 20px 20px;
+    transition: 1s;
+    width: 200px;
+    text-align: center;
+    
+}
+
+ .menu {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+ }  
+
+
+
+.hey1{
+    
+    position:absolute;
+    margin-top: -150px;
+}
+
+
+    .hey2s{
+        margin-right: 20px; 
+     }
+     .hey3s{ 
+     margin-left: 20px;
+    
+     }
+     
+
+.hey3s{
+     left: 750px;
+     top: 350px;
+}
+
+.hey4s{
+    background-image: url(channels4_profile.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(248, 73, 73) ;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    border-radius: 50%;
+     }
+    
+    
+
+   
+  
+
+.hey5s{
+    background-image: url(FH5-HotWheels_Expansion-01-16x9_WM-cfa9d1adbb0dfbf39aeb.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(247, 107, 107) ;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 500px;
+    top: -210px;
+    border-radius: 50%;
+}
+
+.hey6s{
+        background-image: url(s-l1200.webp);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        border: solid rgb(243, 100, 90) ;
+        width: 300px;
+        height: 200px;
+        position: relative;
+        left: 900px;
+        top: -410px;
+        border-radius: 50%;
+}
+
+
+.hey7{
+   margin-right: 20px;
+}
+.hey8{ 
+margin-left: 20px;
+}
+
+h2{
+    background-color: rgb(248, 151, 65);
+    left: 100px;
+    border:190px  ;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    position: center;
+    color: rgb(47, 47, 97);
+    text-align: center;
+
+}
+.hola{
+    background-size: 100% 100%;
+    background-color: rgb(248, 151, 65);
+    border: solid rgb(248, 73, 73) ;
+    width: 1000px;
+    max-width: 1000px;
+    min-width: 700px;
+    height: 100px;
+    text-align: center;
+    color: rgb(43, 56, 69);
+
+}
+.hola1{
+    background-image: url(Autos_B_sicos_Hot_Wheels_Surtidos.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(248, 73, 73) ;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    border-radius: 50%;
+    top: 70px;
+     }
+
+.hola2{
+    background-image: url(br-11134207-7r98o-lpbj80sk245h60\ \(1\).jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(248, 73, 73) ;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 500px;
+    border-radius: 50%;
+    top: -140px;
+     }
+.hola3{
+    background-image: url(gsc_121396010_3017301_1.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(248, 73, 73) ;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 900px;
+    border-radius: 50%;
+    top: -350px;
+}
+
+
+
+
+.batm{
+    background-size: 100% 100%;
+    background-color: rgb(184, 186, 190);
+    border: solid rgb(255, 224, 83) ;
+    width: 1100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    text-align: center;
+    color: rgb(43, 56, 69);
+}
+.vamos{
+    background-size: 100% 100%;
+    background-color: rgb(247, 229, 72);
+    border: solid rgb(41, 41, 41) ;
+    width: 1100px;
+    height: 80px;
+    position: absolute;
+    left: 100px;
+    text-align: center;
+    color: rgb(43, 56, 69);
+}
+
+.goo{
+    background-image: url(5efcbe5fa06e0d212d0d5301b53e5114.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(83, 123, 146) ;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    border-radius: 10%;
+    top: 150px;
+}
+
+.gooo2{
+    background-image: url(D_NQ_NP_701874-MLU69646207075_052023-O.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(83, 123, 146) ;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 480px;
+    border-radius: 10%;
+    top: -55px;
+}
+
+.goo3{
+        background-image: url(712tHXDoh9L._AC_UF894\,1000_QL80_.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        border: solid rgb(83, 123, 146) ;
+        width: 300px;
+        height: 200px;
+        position: relative;
+        left: 875px;
+        border-radius: 10%;
+        top: -260px;
+}
+
+.go4{
+    background-image: url(Batman-day-origen-1080x675.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(83, 123, 146) ;
+    width: 500px;
+    height: 300px;
+    left: 380px;
+    position: relative;
+    border-radius: 10%;
+    top: -260px;
+}
+
+.ey{
+    
+        position:absolute;
+        margin-top: -1650px;
+}
+
+.yy{
+    
+    position:absolute;
+    margin-top: -1700px;
+}
+
+.menu12{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: -80px;
+}
+
+.uyno{
+    position:absolute;
+        margin-top: -500px;
+
+
+}
+.holi{
+    background-image: url(IMG_20231230_151755_897.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: solid rgb(33, 33, 33) ;
+    width: 250px;
+    height: 400px;
+    position: relative;
+    left: 520px;
+    border-radius: 10%;
+    
+     
+}
+
+.gokua{
+    background-size: 100% 100%;
+    background-color: rgb(163, 180, 187);
+    border: solid rgb(255, 224, 83) ;
+    width: 1100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    text-align: center;
+    color: rgb(43, 56, 69);
+    top: 100px;
+
+}
+
+.goku{
+    background-size: 100% 100%;
+    background-color: rgb(184, 186, 190);
+    border: solid rgb(255, 224, 83) ;
+    width: 1100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    text-align: center;
+    color: rgb(43, 56, 69);
+    top: 730px;
+
+}
+.ey2{
+        position:absolute;
+        margin-top: -630px;
+}
+
+.ani{
+        background-image: url(images.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        border: solid rgb(248, 73, 73) ;
+        width: 300px;
+        height: 200px;
+        position: relative;
+        left: 100px;
+        border-radius: 50%;
+        top: 150px;
+         }
+.ani1{
+        background-image: url(apps.27838.13687659141052070.597c3f80-25bd-4e0f-9e57-c5b222575852.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        border: solid rgb(248, 73, 73) ;
+        width: 300px;
+        height: 200px;
+        position: relative;
+        left: 500px;
+        border-radius: 50%;
+        top: -50px;
+        
+}
+.ani2{
+        background-image: url(images\ \(1\).jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        border: solid rgb(248, 73, 73) ;
+        width: 300px;
+        height: 200px;
+        position: relative;
+        left: 900px;
+        border-radius: 50%;
+        top: -260px;
+        
+}
+.wer{
+
+ background-size: 100% 100%;
+    background-color: rgb(255, 163, 58);
+    border: solid rgb(252, 82, 59) ;
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left: 700px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    top: 830px;
+    background-image: url(20230805_20230806_Hot_Wheels_Monster_Trucks_Live_Glow_Party_1005x600.webp)
+
+   
+    
+}
+.wer1{
+    background-size: 100% 100%;
+    background-color: rgb(255, 163, 58);
+    border: solid rgb(252, 82, 59) ;
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left: 100px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    top: 830px;
+    background-image: url(  images\ \(3\).jpg);
+    
+    
+}
+
+.for{
+    margin-right: -580px; 
+    position: center;
+ }
+
+ body .formulario{
+    background-color: #d5e0e2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url(FH5-HotWheels_Expansion-01-16x9_WM-d9655eadb581a77c6d3a.jpg);
+}
+h1 .formulario{
+    text-align: center;
+    text-transform: uppercase; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(100, 148, 167);
+            
+}
+legend .formulario{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 25px;
+    color: rgb(110, 136, 161);
+}
+input .formulario [type=text], input[type=number]  {
+    border-radius: 15px;
+    height: 30px;
+    width: 200px;
+    background-color: rgb(247, 245, 241);
+    text-align: center;
+}
+label .formulario {
+    font-size: large;
+}
+button .formulario{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(255, 183, 76);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+
+}
+button :hover{
+    background-color: beige;
+    border-radius: 8px 10px 8px 10px;
+    color: black ;
+    transition: 1s;
+
+}
+
+#contenedor {
+    background: #f0f0f0;
+    margin: 1em auto;
+    padding: 1em;
+    width: 768px;
+    
+  }
